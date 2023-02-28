@@ -16,7 +16,7 @@ export function TelaCompra({ navigation }) {
                 value={searchQuery}
             />
             <Text style={styles.text}>Seu carrinho esta vazio</Text>
-            <Text style={styles.text}>Desadicione itens</Text>
+            <Text style={styles.text}>Adicione itens</Text>
         </View>
     )
 }
